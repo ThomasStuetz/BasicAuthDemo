@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="BasicAuthDemo:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="basicauth.war">
-      <element id="artifact" artifact-name="BasicAuthDemo:war exploded" />
-    </root>
-  </artifact>
-</component>
